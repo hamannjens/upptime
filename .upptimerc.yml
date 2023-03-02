@@ -5,6 +5,12 @@ repo: upptime # The name of this repository
 sites:
   - name: Health1
     url: https://health1.jenshamann.solutions
+    maxResponseTime: 3000
+  - name: WeatherV1
+    url: https://wetter.jenshamann.solutions
+    maxResponseTime: 3000
+    headers:
+    - "Authorization: Basic $WEATHER_V1_AUTH"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
