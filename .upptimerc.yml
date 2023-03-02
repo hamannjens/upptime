@@ -22,10 +22,7 @@ sites:
     url: https://health1.jenshamann.solutions
     maxResponseTime: 3000
   - name: CICD
-    url: https://cicd.jenshamann.solutions/job/Test.Pipeline.Hello/build
-    method: POST
-    headers:
-    - "Authorization: Basic $CICD_AUTH"
+    url: https://cicd.jenshamann.solutions/userContent/readme.txt
     maxResponseTime: 3000
   - name: Prometheus1
     url: https://prometheus1.jenshamann.solutions
