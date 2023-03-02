@@ -30,7 +30,7 @@ sites:
     headers:
     - "Authorization: Basic $PROMETHEUS1_AUTH"
   - name: WeatherV1
-    url: https://wetter.jenshamann.solutions/?page=info&lat=54.0357&lon=10.4499&acc=100
+    url: https://wetter.jenshamann.solutions/status.php
     maxResponseTime: 3000
     headers:
     - "Authorization: Basic $WEATHER_V1_AUTH"
