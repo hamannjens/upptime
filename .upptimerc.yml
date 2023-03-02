@@ -22,7 +22,7 @@ sites:
     url: https://health1.jenshamann.solutions
     maxResponseTime: 3000
   - name: CICD
-    url: https://cicd.jenshamann.solutions
+    url: https://cicd.jenshamann.solutions/login?from=%2F
     headers:
     - "Authorization: Basic $CICD_AUTH"
     maxResponseTime: 3000
