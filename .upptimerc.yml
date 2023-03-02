@@ -23,6 +23,8 @@ sites:
     maxResponseTime: 3000
   - name: CICD
     url: https://cicd.jenshamann.solutions
+    headers:
+    - "Authorization: Basic $CICD_AUTH"
     maxResponseTime: 3000
   - name: Prometheus1
     url: https://prometheus1.jenshamann.solutions
