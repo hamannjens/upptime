@@ -4,45 +4,49 @@
     "url": "https://dba1.jenshamann.solutions",
     "icon": "https://icons.duckduckgo.com/ip3/dba1.jenshamann.solutions.ico",
     "slug": "dba-1",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 643,
     "timeDay": 840,
     "timeWeek": 643,
     "timeMonth": 643,
     "timeYear": 643,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-06": 0
+    }
   },
   {
     "name": "Glances1",
     "url": "https://glances1.jenshamann.solutions",
     "icon": "https://icons.duckduckgo.com/ip3/glances1.jenshamann.solutions.ico",
     "slug": "glances1",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 538,
     "timeDay": 613,
     "timeWeek": 538,
     "timeMonth": 538,
     "timeYear": 538,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-06": 0
+    }
   },
   {
     "name": "Grafana1",
     "url": "https://grafana1.jenshamann.solutions",
     "icon": "https://icons.duckduckgo.com/ip3/grafana1.jenshamann.solutions.ico",
     "slug": "grafana1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,16 +55,18 @@
     "timeWeek": 835,
     "timeMonth": 835,
     "timeYear": 835,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-06": 0
+    }
   },
   {
     "name": "Health1",
     "url": "https://health1.jenshamann.solutions",
     "icon": "https://icons.duckduckgo.com/ip3/health1.jenshamann.solutions.ico",
     "slug": "health1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,25 +75,28 @@
     "timeWeek": 458,
     "timeMonth": 458,
     "timeYear": 458,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-06": 0
+    }
   },
   {
     "name": "CICD",
     "url": "https://cicd.jenshamann.solutions/userContent/readme.txt",
     "icon": "https://icons.duckduckgo.com/ip3/cicd.jenshamann.solutions.ico",
     "slug": "cicd",
-    "status": "up",
-    "uptime": "98.29%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.29%",
-    "uptimeMonth": "98.29%",
-    "uptimeYear": "98.29%",
+    "status": "down",
+    "uptime": "98.65%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "98.65%",
+    "uptimeMonth": "98.65%",
+    "uptimeYear": "98.65%",
     "time": 457,
     "timeDay": 555,
     "timeWeek": 457,
     "timeMonth": 457,
     "timeYear": 457,
     "dailyMinutesDown": {
+      "2023-03-06": 0,
       "2023-03-02": 81
     }
   },
@@ -96,9 +105,9 @@
     "url": "https://prometheus1.jenshamann.solutions",
     "icon": "https://icons.duckduckgo.com/ip3/prometheus1.jenshamann.solutions.ico",
     "slug": "prometheus1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -107,16 +116,18 @@
     "timeWeek": 627,
     "timeMonth": 627,
     "timeYear": 627,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-06": 0
+    }
   },
   {
     "name": "WeatherV1",
     "url": "https://wetter.jenshamann.solutions/status.php",
     "icon": "https://icons.duckduckgo.com/ip3/wetter.jenshamann.solutions.ico",
     "slug": "weather-v1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -125,6 +136,8 @@
     "timeWeek": 1724,
     "timeMonth": 1724,
     "timeYear": 1724,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-06": 0
+    }
   }
 ]
