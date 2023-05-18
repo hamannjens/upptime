@@ -1,7 +1,7 @@
 url: https://dba1.jenshamann.solutions
-status: up
+status: degraded
 code: 200
-responseTime: 169
-lastUpdated: 2023-05-18T23:01:25.167Z
+responseTime: 1737
+lastUpdated: 2023-05-18T23:26:07.267Z
 startTime: Thu Mar 02 2023 18:55:04 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
