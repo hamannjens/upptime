@@ -1,7 +1,7 @@
 url: https://grafana1.jenshamann.solutions
-status: degraded
+status: up
 code: 200
-responseTime: 2275
-lastUpdated: 2023-11-22T13:56:32.200Z
+responseTime: 1138
+lastUpdated: 2023-11-22T14:05:37.517Z
 startTime: 2023-03-02T18:55:06.000Z
 generator: Upptime <https://github.com/upptime/upptime>
