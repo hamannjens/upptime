@@ -1,7 +1,7 @@
 url: https://grafana1.jenshamann.solutions
-status: down
-code: 502
-responseTime: 557
-lastUpdated: 2024-05-23T06:35:32.332Z
+status: up
+code: 200
+responseTime: 538
+lastUpdated: 2024-05-23T06:58:01.657Z
 startTime: 2023-03-02T18:55:06.000Z
 generator: Upptime <https://github.com/upptime/upptime>
