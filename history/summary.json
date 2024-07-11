@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "host1",
     "status": "up",
-    "uptime": "98.29%",
+    "uptime": "98.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.86%",
     "time": 121,
-    "timeDay": 93,
-    "timeWeek": 112,
-    "timeMonth": 114,
+    "timeDay": 163,
+    "timeWeek": 121,
+    "timeMonth": 116,
     "timeYear": 120,
     "dailyMinutesDown": {
       "2024-04-16": 606,
@@ -39,11 +39,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.38%",
-    "time": 568,
-    "timeDay": 537,
-    "timeWeek": 498,
-    "timeMonth": 559,
-    "timeYear": 539,
+    "time": 569,
+    "timeDay": 810,
+    "timeWeek": 545,
+    "timeMonth": 575,
+    "timeYear": 540,
     "dailyMinutesDown": {
       "2024-04-16": 606,
       "2024-04-15": 78,
@@ -64,16 +64,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/dba1.jenshamann.solutions.ico",
     "slug": "dba-1",
     "status": "up",
-    "uptime": "97.99%",
+    "uptime": "98.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.36%",
     "time": 619,
-    "timeDay": 826,
-    "timeWeek": 628,
-    "timeMonth": 615,
-    "timeYear": 597,
+    "timeDay": 793,
+    "timeWeek": 672,
+    "timeMonth": 616,
+    "timeYear": 598,
     "dailyMinutesDown": {
       "2024-04-16": 606,
       "2024-04-15": 85,
@@ -85,8 +85,7 @@
       "2023-09-06": 83,
       "2023-08-11": 23,
       "2023-08-04": 22,
-      "2023-08-03": 104,
-      "2023-07-12": 62
+      "2023-08-03": 104
     }
   },
   {
@@ -95,16 +94,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/glances1.jenshamann.solutions.ico",
     "slug": "glances1",
     "status": "up",
-    "uptime": "98.00%",
+    "uptime": "98.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.37%",
-    "time": 579,
-    "timeDay": 686,
-    "timeWeek": 591,
-    "timeMonth": 612,
-    "timeYear": 579,
+    "time": 580,
+    "timeDay": 635,
+    "timeWeek": 617,
+    "timeMonth": 592,
+    "timeYear": 580,
     "dailyMinutesDown": {
       "2024-04-16": 606,
       "2024-04-15": 86,
@@ -115,8 +114,7 @@
       "2023-09-07": 1440,
       "2023-09-06": 83,
       "2023-08-11": 22,
-      "2023-08-03": 65,
-      "2023-07-12": 50
+      "2023-08-03": 65
     }
   },
   {
@@ -131,9 +129,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.38%",
     "time": 766,
-    "timeDay": 653,
-    "timeWeek": 710,
-    "timeMonth": 660,
+    "timeDay": 981,
+    "timeWeek": 765,
+    "timeMonth": 674,
     "timeYear": 750,
     "dailyMinutesDown": {
       "2024-05-23": 23,
@@ -145,8 +143,7 @@
       "2023-09-07": 1440,
       "2023-09-06": 83,
       "2023-08-03": 53,
-      "2023-08-02": 25,
-      "2023-07-12": 49
+      "2023-08-02": 25
     }
   },
   {
@@ -161,10 +158,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.40%",
     "time": 485,
-    "timeDay": 326,
-    "timeWeek": 498,
-    "timeMonth": 461,
-    "timeYear": 483,
+    "timeDay": 570,
+    "timeWeek": 525,
+    "timeMonth": 456,
+    "timeYear": 484,
     "dailyMinutesDown": {
       "2024-04-16": 606,
       "2024-04-15": 75,
@@ -172,8 +169,7 @@
       "2023-09-20": 36,
       "2023-09-08": 714,
       "2023-09-07": 1440,
-      "2023-09-06": 83,
-      "2023-07-12": 16
+      "2023-09-06": 83
     }
   },
   {
@@ -182,16 +178,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/prometheus1.jenshamann.solutions.ico",
     "slug": "prometheus1",
     "status": "up",
-    "uptime": "98.02%",
+    "uptime": "98.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.40%",
-    "time": 593,
-    "timeDay": 614,
-    "timeWeek": 572,
-    "timeMonth": 578,
-    "timeYear": 587,
+    "time": 594,
+    "timeDay": 730,
+    "timeWeek": 609,
+    "timeMonth": 588,
+    "timeYear": 588,
     "dailyMinutesDown": {
       "2024-04-16": 606,
       "2024-04-15": 92,
@@ -199,8 +195,7 @@
       "2023-09-20": 35,
       "2023-09-08": 714,
       "2023-09-07": 1440,
-      "2023-09-06": 83,
-      "2023-07-12": 39
+      "2023-09-06": 83
     }
   },
   {
@@ -209,15 +204,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/wetter.jenshamann.solutions.ico",
     "slug": "weather-v1",
     "status": "up",
-    "uptime": "98.02%",
+    "uptime": "98.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.40%",
-    "time": 461,
-    "timeDay": 463,
-    "timeWeek": 460,
-    "timeMonth": 455,
+    "time": 462,
+    "timeDay": 621,
+    "timeWeek": 500,
+    "timeMonth": 461,
     "timeYear": 458,
     "dailyMinutesDown": {
       "2024-04-16": 607,
@@ -228,8 +223,7 @@
       "2023-09-08": 714,
       "2023-09-07": 1440,
       "2023-09-06": 83,
-      "2023-08-03": 47,
-      "2023-07-12": 15
+      "2023-08-03": 47
     }
   }
 ]
