@@ -12,9 +12,9 @@
     "uptimeYear": "98.86%",
     "time": 122,
     "timeDay": 113,
-    "timeWeek": 109,
+    "timeWeek": 112,
     "timeMonth": 120,
-    "timeYear": 121,
+    "timeYear": 120,
     "dailyMinutesDown": {
       "2024-04-16": 606,
       "2024-04-15": 59,
@@ -34,14 +34,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/cicd.jenshamann.solutions.ico",
     "slug": "cicd",
     "status": "up",
-    "uptime": "98.07%",
+    "uptime": "98.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.38%",
     "time": 571,
-    "timeDay": 589,
-    "timeWeek": 592,
+    "timeDay": 386,
+    "timeWeek": 580,
     "timeMonth": 573,
     "timeYear": 539,
     "dailyMinutesDown": {
@@ -54,8 +54,7 @@
       "2023-09-07": 1440,
       "2023-09-06": 75,
       "2023-08-11": 24,
-      "2023-08-04": 24,
-      "2023-08-03": 83
+      "2023-08-04": 24
     }
   },
   {
@@ -70,10 +69,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.37%",
     "time": 619,
-    "timeDay": 792,
-    "timeWeek": 647,
-    "timeMonth": 705,
-    "timeYear": 607,
+    "timeDay": 599,
+    "timeWeek": 657,
+    "timeMonth": 702,
+    "timeYear": 606,
     "dailyMinutesDown": {
       "2024-04-16": 606,
       "2024-04-15": 85,
@@ -84,8 +83,7 @@
       "2023-09-07": 1440,
       "2023-09-06": 83,
       "2023-08-11": 23,
-      "2023-08-04": 22,
-      "2023-08-03": 104
+      "2023-08-04": 22
     }
   },
   {
@@ -100,10 +98,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.38%",
     "time": 583,
-    "timeDay": 781,
-    "timeWeek": 659,
-    "timeMonth": 618,
-    "timeYear": 584,
+    "timeDay": 454,
+    "timeWeek": 651,
+    "timeMonth": 603,
+    "timeYear": 583,
     "dailyMinutesDown": {
       "2024-04-16": 606,
       "2024-04-15": 86,
@@ -113,8 +111,7 @@
       "2023-09-08": 714,
       "2023-09-07": 1440,
       "2023-09-06": 83,
-      "2023-08-11": 22,
-      "2023-08-03": 65
+      "2023-08-11": 22
     }
   },
   {
@@ -123,15 +120,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/grafana1.jenshamann.solutions.ico",
     "slug": "grafana1",
     "status": "up",
-    "uptime": "98.09%",
+    "uptime": "98.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.38%",
     "time": 767,
-    "timeDay": 702,
-    "timeWeek": 684,
-    "timeMonth": 774,
+    "timeDay": 717,
+    "timeWeek": 693,
+    "timeMonth": 764,
     "timeYear": 754,
     "dailyMinutesDown": {
       "2024-05-23": 23,
@@ -141,8 +138,7 @@
       "2023-09-20": 36,
       "2023-09-08": 714,
       "2023-09-07": 1440,
-      "2023-09-06": 83,
-      "2023-08-03": 53
+      "2023-09-06": 83
     }
   },
   {
@@ -151,16 +147,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/health1.jenshamann.solutions.ico",
     "slug": "health1",
     "status": "up",
-    "uptime": "98.11%",
+    "uptime": "98.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.41%",
     "time": 487,
-    "timeDay": 692,
-    "timeWeek": 523,
-    "timeMonth": 517,
-    "timeYear": 485,
+    "timeDay": 378,
+    "timeWeek": 509,
+    "timeMonth": 516,
+    "timeYear": 484,
     "dailyMinutesDown": {
       "2024-04-16": 606,
       "2024-04-15": 75,
@@ -183,8 +179,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.40%",
     "time": 594,
-    "timeDay": 590,
-    "timeWeek": 636,
+    "timeDay": 486,
+    "timeWeek": 646,
     "timeMonth": 618,
     "timeYear": 591,
     "dailyMinutesDown": {
@@ -209,10 +205,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.40%",
     "time": 463,
-    "timeDay": 582,
-    "timeWeek": 425,
-    "timeMonth": 486,
-    "timeYear": 461,
+    "timeDay": 370,
+    "timeWeek": 428,
+    "timeMonth": 485,
+    "timeYear": 460,
     "dailyMinutesDown": {
       "2024-04-16": 607,
       "2024-04-15": 56,
@@ -221,8 +217,7 @@
       "2023-09-20": 35,
       "2023-09-08": 714,
       "2023-09-07": 1440,
-      "2023-09-06": 83,
-      "2023-08-03": 47
+      "2023-09-06": 83
     }
   }
 ]
