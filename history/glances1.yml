@@ -1,7 +1,7 @@
 url: https://glances1.jenshamann.solutions
-status: down
-code: 502
-responseTime: 499
-lastUpdated: 2024-12-25T07:33:21.549Z
+status: up
+code: 200
+responseTime: 496
+lastUpdated: 2024-12-25T07:40:48.217Z
 startTime: 2023-03-02T18:55:05.000Z
 generator: Upptime <https://github.com/upptime/upptime>
