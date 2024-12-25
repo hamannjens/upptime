@@ -1,7 +1,7 @@
 url: https://health1.jenshamann.solutions
-status: degraded
+status: down
 code: 502
-responseTime: 1848
-lastUpdated: 2024-12-25T08:41:33.401Z
+responseTime: 622
+lastUpdated: 2024-12-25T08:49:12.168Z
 startTime: 2023-03-02T17:47:33.000Z
 generator: Upptime <https://github.com/upptime/upptime>
