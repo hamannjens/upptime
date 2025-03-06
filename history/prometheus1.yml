@@ -1,7 +1,7 @@
 url: https://prometheus1.jenshamann.solutions
-status: up
-code: 200
-responseTime: 763
-lastUpdated: 2025-03-05T23:01:35.780Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2025-03-06T22:30:20.121Z
 startTime: 2023-03-02T18:55:08.000Z
 generator: Upptime <https://github.com/upptime/upptime>
