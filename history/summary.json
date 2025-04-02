@@ -41,7 +41,7 @@
     "slug": "cicd",
     "status": "down",
     "uptime": "97.73%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "90.69%",
     "uptimeYear": "97.87%",
@@ -51,7 +51,7 @@
     "timeMonth": 611,
     "timeYear": 563,
     "dailyMinutesDown": {
-      "2025-04-02": 0,
+      "2025-04-02": 1,
       "2025-03-11": 515,
       "2025-03-09": 590,
       "2025-03-08": 1440,
