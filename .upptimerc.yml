@@ -2,8 +2,6 @@
 owner: hamannjens # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
-runner: "[self-hosted, status]"
-
 sites:
   - name: Host1
     check: "tcp-ping"
