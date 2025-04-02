@@ -1,7 +1,7 @@
-url: 85.214.41.81
+url: $HOST1_IPV4
 status: up
 code: 200
-responseTime: 108
-lastUpdated: 2025-04-01T23:01:24.632Z
+responseTime: 117
+lastUpdated: 2025-04-02T14:16:47.660Z
 startTime: 2023-03-10T10:20:57.000Z
 generator: Upptime <https://github.com/upptime/upptime>
