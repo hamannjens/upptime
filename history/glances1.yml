@@ -1,7 +1,7 @@
 url: $GLANCES1_URL
-status: down
+status: degraded
 code: 502
-responseTime: 1134
-lastUpdated: 2025-07-05T23:02:58.800Z
+responseTime: 1622
+lastUpdated: 2025-07-06T21:51:32.478Z
 startTime: 2023-03-02T18:55:05.000Z
 generator: Upptime <https://github.com/upptime/upptime>
