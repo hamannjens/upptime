@@ -7,38 +7,38 @@ sites:
     check: "tcp-ping"
     url: $HOST1_IPV4
     port: 80
-  - name: CICD
-    #url: $CICD1_URL
-    url: https://cicd.jenshamann.solutions/userContent/readme.txt
-    maxResponseTime: 1500
-  - name: DBA1
-    url: $DBA1_URL
-    maxResponseTime: 1500
-    headers:
-    - "Authorization: Basic $DBA1_AUTH"
-  - name: Glances1
-    url: $GLANCES1_URL
-    maxResponseTime: 1500
-    headers:
-    - "Authorization: Basic $GLANCES1_AUTH"
-  - name: Grafana1
-    url: $GRAFANA1_URL
-    maxResponseTime: 1500
-    headers:
-    - "Authorization: Basic $GRAFANA1_AUTH"
-  - name: Health1
+  #- name: CICD
+  #  #url: $CICD1_URL
+  #  url: https://cicd.jenshamann.solutions/userContent/readme.txt
+  #  maxResponseTime: 1500
+  #- name: DBA1
+  #  url: $DBA1_URL
+  #  maxResponseTime: 1500
+  #  headers:
+  #  - "Authorization: Basic $DBA1_AUTH"
+  #- name: Glances1
+  #  url: $GLANCES1_URL
+  #  maxResponseTime: 1500
+  #  headers:
+  #  - "Authorization: Basic $GLANCES1_AUTH"
+  #- name: Grafana1
+  #  url: $GRAFANA1_URL
+  #  maxResponseTime: 1500
+  #  headers:
+  #  - "Authorization: Basic $GRAFANA1_AUTH"
+  - name: Health
     url: $HEALTH1_URL
     maxResponseTime: 1500
-  - name: Prometheus1
-    url: $PROMETHEUS1_URL
-    maxResponseTime: 1500
-    headers:
-    - "Authorization: Basic $PROMETHEUS1_AUTH"
-  - name: WeatherV1
-    url: $HEALTH1_URL
-    maxResponseTime: 1500
-    headers:
-    - "Authorization: Basic $WEATHER_V1_AUTH"
+  #- name: Prometheus1
+  #  url: $PROMETHEUS1_URL
+  #  maxResponseTime: 1500
+  #  headers:
+  #  - "Authorization: Basic $PROMETHEUS1_AUTH"
+  #- name: WeatherV1
+  #  url: $HEALTH1_URL
+  #  maxResponseTime: 1500
+  #  headers:
+  #  - "Authorization: Basic $WEATHER_V1_AUTH"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
