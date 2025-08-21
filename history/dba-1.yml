@@ -1,7 +1,7 @@
 url: $DBA1_URL
-status: down
+status: degraded
 code: 404
-responseTime: 659
-lastUpdated: 2025-08-20T23:02:52.357Z
+responseTime: 1504
+lastUpdated: 2025-08-21T05:27:06.991Z
 startTime: 2023-03-02T18:55:04.000Z
 generator: Upptime <https://github.com/upptime/upptime>
