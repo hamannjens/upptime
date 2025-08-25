@@ -4,28 +4,28 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Host1
-    type: globalping
+    type: "globalping"
     location: $GLOBALPING_REGION_B
     check: "tcp-ping"
     url: $HOST1_IPV4
     port: $HOST1_TCP_PING_PORT
     maxResponseTime: 150
   - name: Host3
-    type: globalping
+    type: "globalping"
     location: $GLOBALPING_REGION_N
     check: "tcp-ping"
     url: $HOST3_IPV4
     port: $HOST3_TCP_PING_PORT
     maxResponseTime: 150
   - name: Host4
-    type: globalping
+    type: "globalping"
     location: $GLOBALPING_REGION_N
     check: "tcp-ping"
     url: $HOST4_IPV4
     port: $HOST4_TCP_PING_PORT
     maxResponseTime: 150
   - name: Host5
-    type: globalping
+    type: "globalping"
     location: $GLOBALPING_REGION_F
     check: "tcp-ping"
     url: $HOST5_IPV4
@@ -52,7 +52,7 @@ sites:
   #  - "Authorization: Basic $GRAFANA1_AUTH"
   - name: Health1
     url: $HEALTH1_URL
-    type: globalping
+    type: "globalping"
     location: $GLOBALPING_REGION_B
     maxResponseTime: 150
   #- name: Prometheus1
