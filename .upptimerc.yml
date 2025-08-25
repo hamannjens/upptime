@@ -7,10 +7,10 @@ sites:
     check: "tcp-ping"
     url: $HOST1_IPV4
     port: 80
-  - name: Host2
+  - name: Host3
     check: "tcp-ping"
     url: $HOST3_IPV4
-    port: $HOST2_TCP_PING_PORT
+    port: $HOST3_TCP_PING_PORT
     type: globalping
     location: frankfurt
   #- name: CICD
