@@ -8,11 +8,11 @@ sites:
     url: $HOST1_IPV4
     port: 80
   - name: Host3
+    type: globalping
+    location: frankfurt
     check: "tcp-ping"
     url: $HOST3_IPV4
     port: $HOST3_TCP_PING_PORT
-    type: globalping
-    location: frankfurt
   #- name: CICD
   #  #url: $CICD1_URL
   #  url: https://cicd.jenshamann.solutions/userContent/readme.txt
