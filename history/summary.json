@@ -6,7 +6,7 @@
     "slug": "host1",
     "status": "down",
     "uptime": "93.90%",
-    "uptimeDay": "99.87%",
+    "uptimeDay": "99.44%",
     "uptimeWeek": "58.27%",
     "uptimeMonth": "11.50%",
     "uptimeYear": "87.26%",
@@ -16,7 +16,7 @@
     "timeMonth": 121,
     "timeYear": 128,
     "dailyMinutesDown": {
-      "2025-08-25": 2,
+      "2025-08-25": 8,
       "2025-08-23": 192,
       "2025-08-22": 873,
       "2025-08-21": 17,
@@ -85,18 +85,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "host3",
     "status": "down",
-    "uptime": "99.71%",
-    "uptimeDay": "99.71%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.71%",
-    "uptimeYear": "99.71%",
+    "uptime": "98.33%",
+    "uptimeDay": "98.33%",
+    "uptimeWeek": "98.33%",
+    "uptimeMonth": "98.33%",
+    "uptimeYear": "98.33%",
     "time": 103,
     "timeDay": 103,
     "timeWeek": 103,
     "timeMonth": 103,
     "timeYear": 103,
     "dailyMinutesDown": {
-      "2025-08-25": 1
+      "2025-08-25": 8
     }
   },
   {
@@ -105,18 +105,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "host4",
     "status": "down",
-    "uptime": "90.49%",
-    "uptimeDay": "90.49%",
-    "uptimeWeek": "90.49%",
-    "uptimeMonth": "90.49%",
-    "uptimeYear": "90.49%",
+    "uptime": "51.93%",
+    "uptimeDay": "51.93%",
+    "uptimeWeek": "51.93%",
+    "uptimeMonth": "51.93%",
+    "uptimeYear": "51.93%",
     "time": 91,
     "timeDay": 91,
     "timeWeek": 91,
     "timeMonth": 91,
     "timeYear": 91,
     "dailyMinutesDown": {
-      "2025-08-25": 1
+      "2025-08-25": 7
     }
   },
   {
@@ -125,18 +125,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "host5",
     "status": "down",
-    "uptime": "65.19%",
-    "uptimeDay": "65.19%",
-    "uptimeWeek": "65.19%",
-    "uptimeMonth": "65.19%",
-    "uptimeYear": "65.19%",
+    "uptime": "6.91%",
+    "uptimeDay": "6.91%",
+    "uptimeWeek": "6.91%",
+    "uptimeMonth": "6.91%",
+    "uptimeYear": "6.91%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-25": 0
+      "2025-08-25": 7
     }
   },
   {
@@ -150,11 +150,11 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 530,
-    "timeDay": 110,
-    "timeWeek": 496,
-    "timeMonth": 496,
-    "timeYear": 543,
+    "time": 529,
+    "timeDay": 108,
+    "timeWeek": 431,
+    "timeMonth": 431,
+    "timeYear": 542,
     "dailyMinutesDown": {
       "2025-08-21": 1157,
       "2025-08-20": 1402,
