@@ -9,6 +9,7 @@ sites:
     port: 80
   - name: Host2
     check: "tcp-ping"
+    url: $HOST3_IPV4
     port: $HOST2_TCP_PING_PORT
     type: globalping
     location: frankfurt
