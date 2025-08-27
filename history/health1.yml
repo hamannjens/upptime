@@ -1,7 +1,7 @@
 url: $HEALTH1_URL
-status: degraded
+status: up
 code: 200
-responseTime: 806
-lastUpdated: 2025-08-27T06:28:43.160Z
+responseTime: 96
+lastUpdated: 2025-08-27T06:41:06.131Z
 startTime: 2025-08-25T15:18:52.284Z
 generator: Upptime <https://github.com/upptime/upptime>
