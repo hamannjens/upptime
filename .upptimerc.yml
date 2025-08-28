@@ -60,7 +60,8 @@ sites:
   - name: Health1
     url: $HEALTH1_URL
     type: "globalping"
-    location: $GLOBALPING_REGION_B
+    #location: $GLOBALPING_REGION_B
+    location: frankfurt
     maxResponseTime: 150
   #- name: Prometheus1
   #  url: $PROMETHEUS1_URL
