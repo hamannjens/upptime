@@ -7,29 +7,28 @@ sites:
     type: "globalping"
     location: $GLOBALPING_REGION_B
     check: "tcp-ping"
-    url: $HOST1_IPV4
-    #port: $HOST1_TCP_PING_PORT
+    #url: $HOST1_IPV4
+    url: $HOST1_DOMAIN
     maxResponseTime: 150
   - name: Host3
     type: "globalping"
     location: $GLOBALPING_REGION_N
     check: "tcp-ping"
-    url: $HOST3_IPV4
-    #port: $HOST3_TCP_PING_PORT
+    #url: $HOST3_IPV4
+    url: $HOST3_DOMAIN
     maxResponseTime: 150
   - name: Host4
     type: "globalping"
     location: $GLOBALPING_REGION_N
     check: "tcp-ping"
-    url: $HOST4_IPV4
-    #port: $HOST4_TCP_PING_PORT
+    #url: $HOST4_IPV4
+    url: $HOST4_DOMAIN
     maxResponseTime: 150
   - name: Host5
     type: "globalping"
     location: $GLOBALPING_REGION_F
     check: "tcp-ping"
     url: $HOST5_IPV4
-    #port: $HOST5_TCP_PING_PORT
     maxResponseTime: 150
   #- name: CICD
   #  #url: $CICD1_URL
