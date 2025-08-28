@@ -1,7 +1,7 @@
 url: $HEALTH1_URL
-status: down
-code: 422
-responseTime: 0
-lastUpdated: 2025-08-28T05:16:23.958Z
+status: up
+code: 200
+responseTime: 58
+lastUpdated: 2025-08-28T17:19:42.735Z
 startTime: 2025-08-25T15:18:52.284Z
 generator: Upptime <https://github.com/upptime/upptime>
