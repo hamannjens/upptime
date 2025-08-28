@@ -36,7 +36,7 @@ sites:
     #location: $GLOBALPING_REGION_F
     location: frankfurt
     check: "tcp-ping"
-    url: $HOST5_IPV4
+    url: $HOST5_HEALTH_URL
     maxResponseTime: 150
   #- name: CICD
   #  #url: $CICD1_URL
