@@ -1,7 +1,7 @@
-url: $HOST3_IPV4
-status: down
-code: 400
-responseTime: 0
-lastUpdated: 2025-08-28T05:16:21.298Z
+url: $HOST3_DOMAIN
+status: up
+code: 200
+responseTime: 4
+lastUpdated: 2025-08-28T16:05:49.252Z
 startTime: 2025-08-25T07:51:45.652Z
 generator: Upptime <https://github.com/upptime/upptime>
