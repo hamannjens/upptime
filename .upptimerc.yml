@@ -5,7 +5,8 @@ repo: upptime # The name of this repository
 sites:
   - name: Host1
     type: "globalping"
-    #location: $GLOBALPING_REGION_B
+    #port: $HOST1_TCP_PING_PORT
+    #location: $GLOBALPING_REGION_F
     location: frankfurt
     check: "tcp-ping"
     #url: $HOST1_IPV4
@@ -13,21 +14,27 @@ sites:
     maxResponseTime: 150
   - name: Host3
     type: "globalping"
-    location: $GLOBALPING_REGION_N
+    #port: $HOST3_TCP_PING_PORT
+    #location: $GLOBALPING_REGION_F
+    location: frankfurt
     check: "tcp-ping"
     #url: $HOST3_IPV4
     url: $HOST3_DOMAIN
     maxResponseTime: 150
   - name: Host4
     type: "globalping"
-    location: $GLOBALPING_REGION_N
+    #port: $HOST4_TCP_PING_PORT
+    #location: $GLOBALPING_REGION_N
+    location: frankfurt
     check: "tcp-ping"
     #url: $HOST4_IPV4
     url: $HOST4_DOMAIN
     maxResponseTime: 150
   - name: Host5
     type: "globalping"
-    location: $GLOBALPING_REGION_F
+    #port: $HOST5_TCP_PING_PORT
+    #location: $GLOBALPING_REGION_F
+    location: frankfurt
     check: "tcp-ping"
     url: $HOST5_IPV4
     maxResponseTime: 150
