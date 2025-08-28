@@ -5,7 +5,8 @@ repo: upptime # The name of this repository
 sites:
   - name: Host1
     type: "globalping"
-    location: $GLOBALPING_REGION_B
+    #location: $GLOBALPING_REGION_B
+    location: frankfurt
     check: "tcp-ping"
     #url: $HOST1_IPV4
     url: $HOST1_DOMAIN
