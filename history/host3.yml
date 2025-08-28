@@ -1,7 +1,7 @@
 url: $HOST3_IPV4
-status: degraded
+status: up
 code: 200
-responseTime: 155
-lastUpdated: 2025-08-28T04:35:22.883Z
+responseTime: 135
+lastUpdated: 2025-08-28T04:44:00.763Z
 startTime: 2025-08-25T07:51:45.652Z
 generator: Upptime <https://github.com/upptime/upptime>
