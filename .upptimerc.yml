@@ -48,14 +48,14 @@ sites:
     type: globalping
     location: frankfurt
     url: $HOST1_R_URL
-    maxResponseTime: 50
+    maxResponseTime: 75
     headers:
     - "Authorization: Basic $HOST1_R_AUTH"
   - name: Host1-R-M
     type: globalping
     location: frankfurt
     url: $HOST1_R_M_URL
-    maxResponseTime: 50
+    maxResponseTime: 75
     headers:
     - "Authorization: Basic $HOST1_R_AUTH"
   #- name: Grafana1
