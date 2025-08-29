@@ -58,7 +58,7 @@ sites:
   #  headers:
   #  - "Authorization: Basic $GRAFANA1_AUTH"
   - name: Health1
-    url: $HEALTH1_URL
+    url: $HOST1_HEALTH_URL
     type: "globalping"
     #location: $GLOBALPING_REGION_B
     location: frankfurt
