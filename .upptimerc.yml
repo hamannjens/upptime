@@ -11,7 +11,7 @@ sites:
     check: "tcp-ping"
     #url: $HOST1_IPV4
     url: $HOST1_DOMAIN
-    maxResponseTime: 150
+    maxResponseTime: 50
   - name: Host3
     type: "globalping"
     #port: $HOST3_TCP_PING_PORT
@@ -20,7 +20,7 @@ sites:
     check: "tcp-ping"
     #url: $HOST3_IPV4
     url: $HOST3_DOMAIN
-    maxResponseTime: 150
+    maxResponseTime: 50
   - name: Host4
     type: "globalping"
     #port: $HOST4_TCP_PING_PORT
@@ -29,40 +29,40 @@ sites:
     check: "tcp-ping"
     #url: $HOST4_IPV4
     url: $HOST4_DOMAIN
-    maxResponseTime: 150
-  - name: Host5
+    maxResponseTime: 50
+  - name: Health1
+    url: $HOST1_HEALTH_URL
+    type: "globalping"
+    #location: $GLOBALPING_REGION_B
+    location: frankfurt
+    maxResponseTime: 50
+  - name: Health5
     type: "globalping"
     #port: $HOST5_TCP_PING_PORT
     #location: $GLOBALPING_REGION_F
     location: frankfurt
     check: "tcp-ping"
     url: $HOST5_HEALTH_URL
-    maxResponseTime: 150
-  #- name: CICD
-  #  #url: $CICD1_URL
-  #  url: https://cicd.jenshamann.solutions/userContent/readme.txt
-  #  maxResponseTime: 1500
-  #- name: DBA1
-  #  url: $DBA1_URL
-  #  maxResponseTime: 1500
-  #  headers:
-  #  - "Authorization: Basic $DBA1_AUTH"
-  #- name: Glances1
-  #  url: $GLANCES1_URL
-  #  maxResponseTime: 1500
-  #  headers:
-  #  - "Authorization: Basic $GLANCES1_AUTH"
+    maxResponseTime: 75
+  - name: Host1-R
+    type: globalping
+    location: frankfurt
+    url: $HOST1_R_URL
+    maxResponseTime: 50
+    headers:
+    - "Authorization: Basic $HOST1_R_AUTH"
+  - name: Host1-R-M
+    type: globalping
+    location: frankfurt
+    url: $HOST1_R_M_URL
+    maxResponseTime: 50
+    headers:
+    - "Authorization: Basic $HOST1_R_AUTH"
   #- name: Grafana1
   #  url: $GRAFANA1_URL
   #  maxResponseTime: 1500
   #  headers:
   #  - "Authorization: Basic $GRAFANA1_AUTH"
-  - name: Health1
-    url: $HOST1_HEALTH_URL
-    type: "globalping"
-    #location: $GLOBALPING_REGION_B
-    location: frankfurt
-    maxResponseTime: 150
   #- name: Prometheus1
   #  url: $PROMETHEUS1_URL
   #  maxResponseTime: 1500
