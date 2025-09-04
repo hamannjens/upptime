@@ -35,7 +35,7 @@ sites:
     type: "globalping"
     #location: $GLOBALPING_REGION_B
     location: frankfurt
-    maxResponseTime: 50
+    maxResponseTime: 75
   - name: Health5
     type: "globalping"
     #port: $HOST5_TCP_PING_PORT
