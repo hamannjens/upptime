@@ -4,9 +4,9 @@
     "url": "$HOST1_DOMAIN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "host1",
-    "status": "up",
+    "status": "down",
     "uptime": "94.22%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "87.17%",
@@ -16,6 +16,7 @@
     "timeMonth": 12,
     "timeYear": 117,
     "dailyMinutesDown": {
+      "2025-10-20": 0,
       "2025-08-29": 49,
       "2025-08-27": 121,
       "2025-08-26": 257,
@@ -87,9 +88,9 @@
     "url": "$HOST3_DOMAIN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "host3",
-    "status": "up",
+    "status": "down",
     "uptime": "99.30%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.30%",
@@ -99,6 +100,7 @@
     "timeMonth": 5,
     "timeYear": 88,
     "dailyMinutesDown": {
+      "2025-10-20": 0,
       "2025-08-29": 297,
       "2025-08-27": 118,
       "2025-08-26": 134,
@@ -110,9 +112,9 @@
     "url": "$HOST4_DOMAIN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "host4",
-    "status": "up",
+    "status": "down",
     "uptime": "99.36%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.36%",
@@ -122,6 +124,7 @@
     "timeMonth": 5,
     "timeYear": 88,
     "dailyMinutesDown": {
+      "2025-10-20": 0,
       "2025-08-29": 285,
       "2025-08-27": 114,
       "2025-08-26": 95,
@@ -133,18 +136,19 @@
     "url": "$HOST1_HEALTH_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "health1",
-    "status": "up",
+    "status": "down",
     "uptime": "0.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
-    "uptimeYear": "14.81%",
+    "uptimeYear": "14.82%",
     "time": 412,
     "timeDay": 44,
     "timeWeek": 43,
     "timeMonth": 53,
     "timeYear": 385,
     "dailyMinutesDown": {
+      "2025-10-20": 0,
       "2025-09-21": 42,
       "2025-09-04": 17,
       "2025-09-02": 18,
@@ -221,9 +225,9 @@
     "url": "$HOST5_HEALTH_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "health5",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -232,16 +236,18 @@
     "timeWeek": 10,
     "timeMonth": 11,
     "timeYear": 11,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-20": 0
+    }
   },
   {
     "name": "Host1-R",
     "url": "$HOST1_R_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "host1-r",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -251,6 +257,7 @@
     "timeMonth": 115,
     "timeYear": 159,
     "dailyMinutesDown": {
+      "2025-10-20": 0,
       "2025-09-18": 22
     }
   },
@@ -259,9 +266,9 @@
     "url": "$HOST1_R_M_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "host1-r-m",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -270,6 +277,8 @@
     "timeWeek": 53,
     "timeMonth": 193,
     "timeYear": 130,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-20": 0
+    }
   }
 ]
