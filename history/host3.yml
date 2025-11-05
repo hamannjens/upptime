@@ -1,7 +1,7 @@
 url: $HOST3_DOMAIN
-status: degraded
+status: up
 code: 200
-responseTime: 96
-lastUpdated: 2025-11-05T07:53:06.435Z
+responseTime: 4
+lastUpdated: 2025-11-05T08:04:02.125Z
 startTime: 2025-08-25T07:51:45.652Z
 generator: Upptime <https://github.com/upptime/upptime>
