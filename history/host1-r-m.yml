@@ -1,7 +1,7 @@
 url: $HOST1_R_M_URL
-status: down
-code: 403
-responseTime: 0
-lastUpdated: 2025-11-13T19:59:01.688Z
+status: up
+code: 200
+responseTime: 58
+lastUpdated: 2025-11-13T20:11:34.972Z
 startTime: 2025-08-29T11:36:32.796Z
 generator: Upptime <https://github.com/upptime/upptime>
