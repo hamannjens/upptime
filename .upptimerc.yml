@@ -12,6 +12,26 @@ sites:
     #url: $HOST1_IPV4
     url: $HOST1_DOMAIN
     maxResponseTime: 50
+  - name: Health1
+    url: $HOST1_HEALTH_URL
+    type: "globalping"
+    #location: $GLOBALPING_REGION_B
+    location: frankfurt
+    maxResponseTime: 100
+  - name: Host1-R
+    type: globalping
+    location: frankfurt
+    url: $HOST1_R_URL
+    maxResponseTime: 100
+    headers:
+    - "Authorization: Basic $HOST1_R_AUTH"
+  - name: Host1-R-M
+    type: globalping
+    location: frankfurt
+    url: $HOST1_R_M_URL
+    maxResponseTime: 100
+    headers:
+    - "Authorization: Basic $HOST1_R_AUTH"
   - name: Host3
     type: "globalping"
     #port: $HOST3_TCP_PING_PORT
@@ -30,12 +50,6 @@ sites:
     #url: $HOST4_IPV4
     url: $HOST4_DOMAIN
     maxResponseTime: 50
-  - name: Health1
-    url: $HOST1_HEALTH_URL
-    type: "globalping"
-    #location: $GLOBALPING_REGION_B
-    location: frankfurt
-    maxResponseTime: 75
   - name: Health5
     type: "globalping"
     #port: $HOST5_TCP_PING_PORT
@@ -44,20 +58,6 @@ sites:
     check: "tcp-ping"
     url: $HOST5_HEALTH_URL
     maxResponseTime: 75
-  - name: Host1-R
-    type: globalping
-    location: frankfurt
-    url: $HOST1_R_URL
-    maxResponseTime: 75
-    headers:
-    - "Authorization: Basic $HOST1_R_AUTH"
-  - name: Host1-R-M
-    type: globalping
-    location: frankfurt
-    url: $HOST1_R_M_URL
-    maxResponseTime: 75
-    headers:
-    - "Authorization: Basic $HOST1_R_AUTH"
   #- name: Grafana1
   #  url: $GRAFANA1_URL
   #  maxResponseTime: 1500
