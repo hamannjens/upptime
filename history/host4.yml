@@ -1,7 +1,7 @@
 url: $HOST4_DOMAIN
-status: degraded
+status: up
 code: 200
-responseTime: 94
-lastUpdated: 2025-12-01T04:59:13.884Z
+responseTime: 4
+lastUpdated: 2025-12-01T05:16:39.917Z
 startTime: 2025-08-25T15:10:40.694Z
 generator: Upptime <https://github.com/upptime/upptime>
