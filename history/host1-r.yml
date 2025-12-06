@@ -1,7 +1,7 @@
 url: $HOST1_R_URL
-status: degraded
+status: down
 code: 418
-responseTime: 152
-lastUpdated: 2025-12-06T23:28:47.633Z
+responseTime: 87
+lastUpdated: 2025-12-06T23:38:27.280Z
 startTime: 2025-08-29T11:36:32.204Z
 generator: Upptime <https://github.com/upptime/upptime>
